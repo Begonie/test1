@@ -29,5 +29,3 @@ class randstring{
 
 $strnum=new randstring(4,3);
 echo $strnum->randnum();
-echo $strnum->randnum();
-echo $strnum->randnum();
